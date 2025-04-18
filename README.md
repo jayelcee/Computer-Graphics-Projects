@@ -45,7 +45,7 @@ Renders a dynamic 3D solar scene featuring Earth, Moon, background stars, and an
 - `Left Mouse Button` – Rotate the **Moon**  
 - `ESC` – Exit the program  
 
-In collaboration with Shawn Aaron Quirante
+#### In collaboration with Shawn Aaron Quirante
 Video Demo: https://youtu.be/HNalhw2L8Jk
 
 ## 🛠️ Getting Started
