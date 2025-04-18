@@ -78,6 +78,16 @@ g++ CG_project.cpp -o CG_project -lGL -lGLU -lglut -lGLEW
 ### Lab 1
 ![image](https://github.com/user-attachments/assets/8fa45408-6a52-4a2a-be67-a46515f1138e)
 
+### Lab 2
+![image](https://github.com/user-attachments/assets/9123a81a-81ff-4648-84bb-98ec8be91eab)
+
+### Lab 3
+![image](https://github.com/user-attachments/assets/e88c00e0-10dd-4e36-9230-34c0af9f5181)
+
+### Lab 4
+![image](https://github.com/user-attachments/assets/056476db-f69c-487d-afbb-b2e348f1d9a0)
+
+
 
 ## 📜 License
 
