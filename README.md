@@ -73,9 +73,11 @@ g++ CG_project.cpp -o CG_project -lGL -lGLU -lglut -lGLEW
 ./CG_project
 ```
 
-## 📸 Final Project Preview
+## 📸 Preview
 
-Feel free to add screenshots or GIFs showing each project in action!
+Lab 1
+![image](https://github.com/user-attachments/assets/8fa45408-6a52-4a2a-be67-a46515f1138e)
+
 
 ## 📜 License
 
