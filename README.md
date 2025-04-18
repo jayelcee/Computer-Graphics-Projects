@@ -2,17 +2,17 @@
 
 This repository contains a collection of OpenGL-based computer graphics projects developed for the **Computer Graphics and Visual Computing** course. Each project demonstrates fundamental to advanced rendering concepts using OpenGL, GLUT, and C++.
 
-## 📁 Projects Overview
+## 📄 Project List
 
-| Folder       | Description |
-|--------------|-------------|
-| `CG_lab1`    | Draws two intersecting lines. |
-| `CG_lab2`    | Displays a hexagon made of colored triangles. |
-| `CG_lab3`    | Renders a smiley face with basic keyboard and mouse interactions. |
-| `CG_lab4`    | Implements the smiley face using vertex arrays. |
-| `CG_lab5`    | Uses VBOs and VAOs to render the smiley face. |
-| `CG_lab6`    | Displays an octahedron with spotlights and camera controls. |
-| `CG_project` | **Final Project**: Combines multiple objects with transformations (translation, rotation, scaling), advanced features like VBOs, vertex arrays, and basic animation. |
+| File            | Description |
+|------------------|-------------|
+| `CG_lab1.cpp`    | Draws two intersecting lines. |
+| `CG_lab2.cpp`    | Displays a hexagon made of colored triangles. |
+| `CG_lab3.cpp`    | Renders a smiley face with basic keyboard and mouse interactions. |
+| `CG_lab4.cpp`    | Implements the smiley face using vertex arrays. |
+| `CG_lab5.cpp`    | Uses VBOs and VAOs to render the smiley face. |
+| `CG_lab6.cpp`    | Displays an octahedron with spotlights and camera controls. |
+| `CG_project.cpp` | **Final Project**: Combines multiple objects with transformations (translation, rotation, scaling), VBOs, vertex arrays, and animations. |
 
 ## 🎮 Final Project Controls
 
@@ -57,31 +57,25 @@ sudo apt-get install g++ freeglut3-dev libglew-dev
 
 ## ⚙️ Compilation & Execution
 
-1. Navigate to the project folder (e.g., `CG_lab1`):
-   ```bash
-   cd CG_lab1
-   ```
+1. From the root directory of the repository, compile any `.cpp` file. For example, to compile and run `CG_lab1.cpp`:
 
-2. Compile the file:
    ```bash
    g++ CG_lab1.cpp -o CG_lab1 -lGL -lGLU -lglut
-   ```
-
-3. Run the executable:
-   ```bash
    ./CG_lab1
    ```
 
-### 👉 For the Final Project:
+2. Replace `CG_lab1.cpp` with the filename of the project you want to run.
+
+### 👉 Final Project:
 
 ```bash
-cd CG_project
 g++ CG_project.cpp -o CG_project -lGL -lGLU -lglut -lGLEW
 ./CG_project
 ```
 
 ## 📸 Final Project Preview
 
+Feel free to add screenshots or GIFs showing each project in action!
 
 ## 📜 License
 
