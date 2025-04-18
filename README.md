@@ -45,7 +45,7 @@ Renders a dynamic 3D solar scene featuring Earth, Moon, background stars, and an
 - `Left Mouse Button` – Rotate the **Moon**  
 - `ESC` – Exit the program  
 
-![msrdc  Camasura_-_Quirante_CG_Project_(Ubuntu)  2025-04-18_16-47-21 (Small)](https://github.com/user-attachments/assets/e8d78cbe-85b9-48cd-a727-a3d34881cb8a)
+Video Demo: https://youtu.be/HNalhw2L8Jk
 
 ## 🛠️ Getting Started
 
