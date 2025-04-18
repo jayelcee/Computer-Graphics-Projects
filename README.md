@@ -85,7 +85,8 @@ g++ CG_project.cpp -o CG_project -lGL -lGLU -lglut -lGLEW
 ![image](https://github.com/user-attachments/assets/e88c00e0-10dd-4e36-9230-34c0af9f5181)
 
 ### Lab 4
-![image](https://github.com/user-attachments/assets/056476db-f69c-487d-afbb-b2e348f1d9a0)
+![msrdc  Camasura_Lab4_(Ubuntu)  2025-04-18_15-42-54](https://github.com/user-attachments/assets/44dddfe2-a58d-4ac8-8da0-34a055f952a9)
+
 
 
 
